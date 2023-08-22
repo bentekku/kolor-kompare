@@ -34,7 +34,7 @@ const Content = () => {
             value={colorVal}
             type="text"
             placeholder="Enter the color code along with `#`, `rgb` or `rgba` prefixes, `hsl` inputs are not supported"
-            className=" h-[48px] w-[560px] rounded-[6px] tracking-wide outline-none text-center text-[.7rem] "
+            className=" h-[48px] w-[560px] rounded-[8px] tracking-wide outline-none text-center text-[.75rem]"
           />
         </form>
       </div>
