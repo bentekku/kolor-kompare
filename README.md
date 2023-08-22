@@ -4,7 +4,7 @@ One day, while experimenting with ChatGPT, I decided to see if it could suggest 
 
 ## About Kolor Kompare
 
-Kolor Kompare is a web application designed to help you assess the contrast of colors with different backgrounds and font colors. Instead of generating colors, it acts as a canvas to experiment with background colors against two common font colors: #000 (black) and #fff (white). This can aid in checking readability of two common font colors over the custom background.
+Kolor Kompare is a web application designed to help you assess the contrast of colors with different backgrounds and font colors. Instead of generating colors, it acts as a canvas to experiment with background colors against two common font colors: #000 (black) and #fff (white). This can aid in checking readability of two common font colors over an array of custom background.
 
 ## Screenshots
 ### Website Interface
